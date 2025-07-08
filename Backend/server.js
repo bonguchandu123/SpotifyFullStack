@@ -2,16 +2,17 @@ import express from "express"
 import cors  from "cors"
 import 'dotenv/config'
 import songRouter from "./src/routes/songRouter.js";
-import connectDB from "./src/config/mongodb.js";
+
 import { connectCloudinary } from "./src/config/cloudinary.js";
 import albumRouter from "./src/routes/albumRouter.js";
+import { connectDB } from "./src/config/mongodb.js";
 
 // app config
 
 const app = express();
 const port = process.env.PORT || 4000;
 
-connectDB();
+connectDB()
 connectCloudinary();
 
 //middlewares
