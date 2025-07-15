@@ -3,6 +3,7 @@ import Sidebar from './components/Sidebar.jsx'
 import Player from './components/Player.jsx'
 import Display from './components/Display.jsx'
 import  { PlayerContext } from './context/PlayerContext.jsx'
+import Navbar from './components/Navbar.jsx'
 
 const App = () => {
 
@@ -13,6 +14,7 @@ const App = () => {
 
   return (
     <div className='h-screen bg-black'>
+   
       {
         songsData.length !== 0?
         <>
