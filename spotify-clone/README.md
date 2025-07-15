@@ -3,7 +3,7 @@
 A fully functional Spotify Clone built with a modern fullstack stack – featuring audio streaming, song uploads via Cloudinary, and dynamic content management via a dedicated admin panel.
 
 <div align="center">
-  <img width="100%" alt="Spotify Clone Banner" src="https://github.com/user-attachments/assets/YOUR_IMAGE_ID" />
+<img width="1911" height="931" alt="Image" src="https://github.com/user-attachments/assets/bd0b46d5-34dc-4d05-acdf-6434207fda5c" />
 </div>
 
 ---
