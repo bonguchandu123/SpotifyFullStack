@@ -26,13 +26,13 @@ A fully functional Spotify Clone built with a modern fullstack stack – featuri
 ---
 
 ## 📁 Folder Structure
-
+```
 spotify-clone/
 ├── frontend/ # React app for users
 ├── backend/ # Express API server
 ├── admin-panel/ # Admin dashboard to manage content
 
-
+```
 
 ---
 
