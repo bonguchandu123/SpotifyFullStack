@@ -66,24 +66,24 @@ MONGODB_URL=
 ## 🛠️ Getting Started
 
 # 1. Clone the repository
-git clone https://github.com/bonguchandu123/spotify-clone.git
-cd spotify-clone
+```git clone https://github.com/bonguchandu123/spotify-clone.git
+cd spotify-clone```
 
 # 2. Setup Backend
-cd backend
+```cd backend
 npm install
-npm run dev
+npm run dev```
 
 # 3. Setup Frontend
-cd ../frontend
+```cd ../frontend
 npm install
 npm start
-
+```
 # 4. Setup Admin Panel (Optional)
-cd ../admin-panel
+```cd ../admin-panel
 npm install
 npm start
-
+```
 ## Author
 Chandu bongu
 
